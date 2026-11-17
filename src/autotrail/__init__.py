@@ -1,1 +1,1 @@
-"""autotrail baseline (single-responsibility pipeline)."""
+"""autotrail package (single-responsibility pipeline)."""
