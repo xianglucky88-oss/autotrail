@@ -1,0 +1,37 @@
+[
+  {
+    "src": "Alpha",
+    "vin": "1HGCM82633A",
+    "mileage": 30000,
+    "plate": "沪A12345",
+    "ts": "2026-10-01T08:00:00Z"
+  },
+  {
+    "src": "Alpha",
+    "vin": "1HGCM82603A004352",
+    "mileage": 31000,
+    "plate": "沪A12345",
+    "ts": "2026-10-02T08:00:00Z"
+  },
+  {
+    "src": "beta",
+    "vin": "1hgcm82603a004352",
+    "mileage": 31500,
+    "plate": "沪A12345",
+    "ts": "2026-10-03T08:00:00Z"
+  },
+  {
+    "src": "Alpha",
+    "vin": "1HGCM82633A004352",
+    "mileage": 32000,
+    "plate": "沪A12345",
+    "ts": "2026-10-04T08:00:00Z"
+  },
+  {
+    "src": "walkin",
+    "mileage": 32200,
+    "plate": "沪A12345",
+    "color": "white",
+    "ts": "2026-10-05T08:00:00Z"
+  }
+]

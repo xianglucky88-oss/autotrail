@@ -1,0 +1,37 @@
+[
+  {
+    "src": "Alpha",
+    "vin": "WVWZZZ1JXZW123456",
+    "mileage": 12000,
+    "plate": "京D11111",
+    "ts": "2026-09-01T08:00:00Z"
+  },
+  {
+    "src": "Alpha",
+    "vin": "wvwzzz1jxzw123456",
+    "mileage": 15600,
+    "plate": "京D11111",
+    "ts": "2026-09-10T08:00:00Z"
+  },
+  {
+    "src": "beta",
+    "vin": "WVWZZZ1JXZW123456",
+    "mileage": 15900,
+    "plate": "京D11111",
+    "ts": "2026-09-11T08:00:00Z"
+  },
+  {
+    "src": "beta",
+    "vin": "WVW-ZZZ1J*ZW*23456",
+    "mileage": 15950,
+    "plate": "京D11111",
+    "ts": "2026-09-12T08:00:00Z"
+  },
+  {
+    "src": "Alpha",
+    "vin": "WVWZZZ1JXZW123456",
+    "mileage": 12000,
+    "plate": "京D11111",
+    "ts": "2026-09-01T08:00:00Z"
+  }
+]

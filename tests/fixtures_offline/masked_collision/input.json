@@ -1,0 +1,50 @@
+[
+  {
+    "src": "Alpha",
+    "vin": "1hg-cm826*3**0*352",
+    "mileage": 52000,
+    "plate": "沪A12345",
+    "color": "white",
+    "ts": "2026-11-01T08:00:00Z"
+  },
+  {
+    "src": "beta",
+    "vin": "1HG CM826#3##0#352",
+    "mileage": 53500,
+    "plate": "沪A12345",
+    "color": "pearl-white",
+    "ts": "2026-11-05T09:30:00Z"
+  },
+  {
+    "src": "gamma",
+    "vin": "1HGCM82633A004352",
+    "mileage": 54000,
+    "plate": "沪A12345",
+    "color": "white",
+    "ts": "2026-11-08T10:00:00Z"
+  },
+  {
+    "src": "gamma",
+    "vin": "1HGCM826830000352",
+    "mileage": 88000,
+    "plate": "苏B88888",
+    "color": "black",
+    "ts": "2026-11-09T10:00:00Z"
+  },
+  {
+    "src": "delta",
+    "vin": "LSG-AB52L*DF*2345",
+    "mileage": 41000,
+    "plate": "粤C66666",
+    "color": "silver",
+    "ts": "2026-11-10T10:00:00Z"
+  },
+  {
+    "src": "delta",
+    "vin": "LSGAB52L5XDF12345",
+    "mileage": 41200,
+    "plate": "粤C66666",
+    "color": "silver",
+    "ts": "2026-11-11T10:00:00Z"
+  }
+]
