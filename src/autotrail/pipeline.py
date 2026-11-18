@@ -1,11 +1,11 @@
-"""薄编排：loader → normalizer→fetch→identity→statusline→dedup → keyer → store。不含业务判断。"""
+"""薄编排：loader → normalizer→fetch→vin_id→identity→statusline→dedup → keyer → store。不含业务判断。"""
 import importlib
 from . import store as _store
 from . import loader as _loader
 from .keyer import key_of
 from .models import Record
 
-CHAIN_NAMES = ['normalizer', 'fetch', 'identity', 'statusline', 'dedup']
+CHAIN_NAMES = ['normalizer', 'fetch', 'vin_id', 'identity', 'statusline', 'dedup']
 
 def run(con=None):
     own = con is None
